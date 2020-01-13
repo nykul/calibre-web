@@ -953,7 +953,7 @@ msgstr "Správce"
 #: cps/templates/detail.html:27 cps/templates/shelf.html:6
 #: cps/templates/shelfdown.html:62
 msgid "Download"
-msgstr "Stáhovat"
+msgstr "Stahovat"
 
 #: cps/templates/admin.html:18
 msgid "View Ebooks"
@@ -1532,7 +1532,7 @@ msgstr "Nastavení převaděče eknih"
 
 #: cps/templates/config_edit.html:312
 msgid "Path to convertertool"
-msgstr "Cesta k převáděči"
+msgstr "Cesta k převaděči"
 
 #: cps/templates/config_edit.html:318
 msgid "Location of Unrar binary"
@@ -2208,7 +2208,7 @@ msgstr "Resetovat uživatelské heslo"
 
 #: cps/templates/user_edit.html:26
 msgid "Kindle E-Mail"
-msgstr "Kindle E-Mail"
+msgstr "Kindle e-mail"
 
 #: cps/templates/user_edit.html:39
 msgid "Show books with language"
