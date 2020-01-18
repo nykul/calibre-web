@@ -957,7 +957,7 @@ msgstr "Stahovat"
 
 #: cps/templates/admin.html:18
 msgid "View Ebooks"
-msgstr "Prohlížet eknihy"
+msgstr "Prohlížet"
 
 #: cps/templates/admin.html:19 cps/templates/layout.html:65
 msgid "Upload"
@@ -2148,19 +2148,19 @@ msgstr "Statistika knihovny Calibre"
 
 #: cps/templates/stats.html:12
 msgid "Books in this Library"
-msgstr "Knihy v této knihovně"
+msgstr "Knih v této knihovně"
 
 #: cps/templates/stats.html:16
 msgid "Authors in this Library"
-msgstr "Autoři v této knihovně"
+msgstr "Autorů v této knihovně"
 
 #: cps/templates/stats.html:20
 msgid "Categories in this Library"
-msgstr "Kategorie v této knihovně"
+msgstr "Kategorií v této knihovně"
 
 #: cps/templates/stats.html:24
 msgid "Series in this Library"
-msgstr "Série v této knihovně"
+msgstr "Sérií v této knihovně"
 
 #: cps/templates/stats.html:28
 msgid "Linked libraries"
